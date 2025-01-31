@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Spicy Chicken Burger",
+    "category": "Fast Food",
+    "price": 250.0,
+    "originalPrice": 280.0,
+    "tags": ["Spicy", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-2.png",
+    "description": "Juicy chicken patty with a spicy sauce in a fresh bun.",
+    "available": true
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "category": "Italian",
+    "price": 799.0,
+    "originalPrice": 850.0,
+    "tags": ["Vegetarian", "Cheesy"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-3.png",
+    "description": "Traditional Margherita pizza with fresh mozzarella and basil.",
+    "available": true
+  },
+  {
+    "name": "Grilled Salmon Steak",
+    "category": "Seafood",
+    "price": 1200.0,
+    "originalPrice": 1350.0,
+    "tags": ["Healthy", "Premium"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-4.png",
+    "description": "Fresh grilled salmon steak served with lemon butter sauce.",
+    "available": true
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "price": 350.0,
+    "originalPrice": 400.0,
+    "tags": ["Sweet", "Popular"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-5.png",
+    "description": "Decadent chocolate cake with a molten lava center.",
+    "available": true
+  },
+  {
+    "name": "Vegetable Biryani",
+    "category": "Rice Dish",
+    "price": 500.0,
+    "originalPrice": 550.0,
+    "tags": ["Spicy", "Vegetarian"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-6.png",
+    "description": "Aromatic basmati rice cooked with fresh vegetables and spices.",
+    "available": true
+  },
+  {
+    "name": "Beef Steak with Mashed Potatoes",
+    "category": "Main Course",
+    "price": 1450.0,
+    "originalPrice": 1600.0,
+    "tags": ["Grilled", "Premium"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-7.png",
+    "description": "Perfectly grilled beef steak served with creamy mashed potatoes.",
+    "available": false
+  },
+  {
+    "name": "Penne Alfredo Pasta",
+    "category": "Pasta",
+    "price": 750.0,
+    "originalPrice": 820.0,
+    "tags": ["Cheesy", "Creamy"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-8.png",
+    "description": "Rich and creamy Alfredo sauce served over penne pasta.",
+    "available": true
+  },
+  {
+    "name": "Strawberry Cheesecake",
+    "category": "Dessert",
+    "price": 450.0,
+    "originalPrice": 500.0,
+    "tags": ["Sweet", "Fruity"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-9.png",
+    "description": "Delicious cheesecake topped with fresh strawberries.",
+    "available": true
+  },
+  {
+    "name": "Hot & Sour Soup",
+    "category": "Soup",
+    "price": 280.0,
+    "originalPrice": 320.0,
+    "tags": ["Spicy", "Hot"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-10.png",
+    "description": "A tangy and spicy soup with vegetables and chicken.",
+    "available": true
+  },
+  {
+    "name": "Mango Smoothie",
+    "category": "Drink",
+    "price": 220.0,
+    "originalPrice": 250.0,
+    "tags": ["Healthy", "Fruity"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-11.png",
+    "description": "A refreshing mango smoothie made with fresh mangoes and yogurt.",
+    "available": false
+  },
+  {
+    "name": "BBQ Chicken Wings",
+    "category": "Appetizer",
+    "price": 480.0,
+    "originalPrice": 550.0,
+    "tags": ["Spicy", "Crispy"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-12.png",
+    "description": "Crispy chicken wings tossed in smoky BBQ sauce.",
+    "available": true
+  },
+  {
+    "name": "Club Sandwich",
+    "category": "Fast Food",
+    "price": 350.0,
+    "originalPrice": 400.0,
+    "tags": ["Crunchy", "Filling"],
+    "image": "https://sanity-nextjs-rouge.vercel.app/food/food-13.png",
+    "description": "A classic club sandwich with grilled chicken, eggs, and fresh veggies.",
+    "available": true
+  }
+]

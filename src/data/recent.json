@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "date": "Dec 20, 2025",
+      "image": "/images/recent1.png",
+      "excerpt": "At vero eos et accusam et justo duo dolores et ea rebum..."
+    },
+    {
+      "id": 2,
+      "date": "Dec 20, 2025",
+      "image": "/images/recent2.png",
+      "excerpt": "At vero eos et accusam et justo duo dolores et ea rebum..."
+    },
+    {
+      "id": 3,
+      "date": "Dec 20, 2025",
+      "image": "/images/recent3.png",
+      "excerpt": "At vero eos et accusam et justo duo dolores et ea rebum..."
+    },
+    {
+      "id": 4,
+      "date": "Dec 20, 2025",
+      "image": "/images/recent4.png",
+      "excerpt": "At vero eos et accusam et justo duo dolores et ea rebum..."
+    }
+  ]
+  

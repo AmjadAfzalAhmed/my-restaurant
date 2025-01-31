@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "image": "/images/filter1.png",
+      "title": "Chicken Fry",
+      "quant": 26
+    },
+    {
+      "id": "2",
+      "image": "/images/filter2.png",
+      "title": "Burger Food",
+      "quant": 46
+    },
+    {
+      "id": "3",
+      "image": "/images/filter3.png",
+      "title": "Pizza",
+      "quant": 16
+    },
+    {
+      "id": "4",
+      "image": "/images/filter4.png",
+      "title": "Fresh Fruits",
+      "quant": 36
+    },
+    {
+      "id": "5",
+      "image": "/images/filter5.png",
+      "title": "Vegetables",
+      "quant": 16
+    }
+  ]
+  

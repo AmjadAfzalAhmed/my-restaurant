@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Ayesha Kareem",
+      "position": "Executive Chef",
+      "experience": 15,
+      "specialty": "Mediterranean Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-2.png",
+      "description": "Renowned for her exquisite Mediterranean dishes with a modern twist.",
+      "available": true
+    },
+    {
+      "name": "Imran Haider",
+      "position": "Sous Chef",
+      "experience": 10,
+      "specialty": "French Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-3.png",
+      "description": "Expert in French sauces and classical techniques.",
+      "available": false
+    },
+    {
+      "name": "Fatima Noor",
+      "position": "Pastry Chef",
+      "experience": 8,
+      "specialty": "Desserts & Pastries",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-4.png",
+      "description": "Creates heavenly desserts with a perfect balance of flavors.",
+      "available": true
+    },
+    {
+      "name": "Hayyan Siddiqui",
+      "position": "Grill Master",
+      "experience": 12,
+      "specialty": "BBQ & Grilled Meats",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-5.png",
+      "description": "Excels in preparing tender, juicy BBQ dishes.",
+      "available": true
+    },
+    {
+      "name": "Zainab Rahmani",
+      "position": "Head Chef",
+      "experience": 14,
+      "specialty": "Middle Eastern Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-6.png",
+      "description": "Passionate about bringing authentic Middle Eastern flavors to life.",
+      "available": false
+    },
+    {
+      "name": "Ahmed Jibran",
+      "position": "Sushi Chef",
+      "experience": 9,
+      "specialty": "Japanese Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-7.png",
+      "description": "Skilled in crafting fresh sushi and sashimi.",
+      "available": true
+    },
+    {
+      "name": "Hafsa Iqbal",
+      "position": "Bakery Chef",
+      "experience": 11,
+      "specialty": "Breads & Confectionery",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-8.png",
+      "description": "Loves experimenting with artisanal bread and pastries.",
+      "available": true
+    },
+    {
+      "name": "Tariq Mustafa",
+      "position": "Culinary Consultant",
+      "experience": 20,
+      "specialty": "Fusion Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-9.png",
+      "description": "Blends flavors from different cultures to create unique dishes.",
+      "available": false
+    },
+    {
+      "name": "Mariam Aziz",
+      "position": "Vegan Chef",
+      "experience": 7,
+      "specialty": "Plant-Based Cuisine",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-10.png",
+      "description": "Expert in crafting delicious and healthy vegan meals.",
+      "available": true
+    },
+    {
+      "name": "Bilal Farooqi",
+      "position": "Seafood Chef",
+      "experience": 13,
+      "specialty": "Seafood & Coastal Dishes",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-11.png",
+      "description": "Passionate about fresh seafood and coastal delicacies.",
+      "available": true
+    },
+    {
+      "name": "Nadia Sulaiman",
+      "position": "Private Chef",
+      "experience": 10,
+      "specialty": "Fine Dining",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-12.png",
+      "description": "Creates gourmet experiences for exclusive clients.",
+      "available": false
+    },
+    {
+      "name": "Yusuf Kamal",
+      "position": "Catering Specialist",
+      "experience": 16,
+      "specialty": "Event Catering",
+      "image": "https://sanity-nextjs-rouge.vercel.app/chef/chef-13.png",
+      "description": "Excels in large-scale catering with personalized menus.",
+      "available": true
+    }
+  ]
+  
